@@ -4,4 +4,4 @@ The Official GitHub Repository for VADE. VADE is a Windows Software created for 
 ## Coming Soon
 
 This project is currently under development and is coming very soon...
-Stay tuned to get some updates at Our [Discord](https://dsc.gg/VADE)
+Stay tuned to get some updates at Our [Discord Server](https://dsc.gg/VADE).
